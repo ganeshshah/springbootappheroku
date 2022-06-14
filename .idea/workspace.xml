@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9c030cf0-4c8b-4b65-91dd-c260fb62ae37" name="Changes" comment="Adding the footer files" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="28EzFMtkqOI6QnuE3m3zXgaurxf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/codin/OneDrive/Desktop/springDevelopment/30-days-of-dev/springApp/src/main/resources/static",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "spring.configuration.checksum": "f00729f88fbe161ce24757b60e2ccea8"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\codin\OneDrive\Desktop\springDevelopment\30-days-of-dev\springApp\src\main\resources\static" />
+      <recent name="C:\Users\codin\OneDrive\Desktop\springDevelopment\30-days-of-dev\springApp\src\main\resources" />
+      <recent name="C:\Users\codin\OneDrive\Desktop\springDevelopment\30-days-of-dev\springApp\src\main\resources\" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\codin\OneDrive\Desktop\springDevelopment\30-days-of-dev\springApp\src\main\resources\static\static" />
+      <recent name="C:\Users\codin\OneDrive\Desktop\springDevelopment\30-days-of-dev\springApp\src\main\resources\db\migration" />
+      <recent name="C:\Users\codin\OneDrive\Desktop\springDevelopment\30-days-of-dev\springApp\src\js\build\static" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+      <command value="mvn  install -f" />
+      <command value="mvn  install -fU" />
+      <command value="mvn install -U" />
+      <command value="mvn clean install -DskipTests" />
+      <command value="mvn clean install" />
+      <command value="mvn clean install -Pspringapp" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration name="demo [install]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="install" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="springApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.springapp.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.demo [install]" />
+      <item itemvalue="Spring Boot.DemoApplication" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c030cf0-4c8b-4b65-91dd-c260fb62ae37" name="Changes" comment="" />
+      <created>1650796434761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650796434761</updated>
+      <workItem from="1650796439966" duration="7057000" />
+      <workItem from="1650867651035" duration="5083000" />
+      <workItem from="1651029630881" duration="9320000" />
+      <workItem from="1651171281591" duration="5106000" />
+      <workItem from="1651261932496" duration="1301000" />
+      <workItem from="1651345252077" duration="595000" />
+      <workItem from="1651562217098" duration="4705000" />
+      <workItem from="1652080311050" duration="1695000" />
+      <workItem from="1654347874193" duration="54000" />
+      <workItem from="1654797027092" duration="5626000" />
+      <workItem from="1654880963254" duration="460000" />
+      <workItem from="1655143300251" duration="5391000" />
+      <workItem from="1655221497561" duration="3528000" />
+      <workItem from="1655226928259" duration="11401000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding the footer files">
+      <created>1651562343302</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651562343302</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Committed form intellij" />
+    <MESSAGE value="Adding the footer files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding the footer files" />
+  </component>
+</project>
